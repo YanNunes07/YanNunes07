@@ -24,6 +24,6 @@
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
  
-   ![ Animação de cobra ](https://github.com/YanNunes07/YanNunes07/blob/output/github-contribution-grid-snake.svg)  
+   !
 
 </div>
