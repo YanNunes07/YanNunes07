@@ -1,9 +1,9 @@
 ### Ola eu sou o Yan Nunes 
 
-- 🔭  No momento estou desempregado
-- 👯  Estudando react native e typescript
+- 🔭  Suporte Help Desk
+- 👯  Estudando Flutter e Dart
 - 💬  Contate-me no email: yanhenriquefree@gmail.com
-- ⚡  Estou em busca de uma oportunidade de trabalho para ampliar meus conhecimentos
+- ⚡  Estou em busca de conhecimento
 
 <div align="center">
   <a href="https://github.com/YanNunes07">
